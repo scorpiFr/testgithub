@@ -1,2 +1,2 @@
 # testgithub
-thgis project has no purpose and contain no innovations
+This project has no purpose and contain no innovations
